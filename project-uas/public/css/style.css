@@ -1,0 +1,86 @@
+/* public/css/style.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+:root {
+    --primary-red: #e62129;
+    --dark-sidebar: #2c3e50;
+    --light-gray: #f8f9fa;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f1f2f6;
+}
+
+/* Navbar Style */
+.navbar-custom {
+    background-color: var(--primary-red);
+    padding: 12px 0;
+}
+
+/* Card Produk (Dashboard User) */
+.card-product {
+    border: none;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    background: #fff;
+    overflow: hidden;
+}
+
+.card-product:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.img-wrapper {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.img-wrapper img {
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.price-text {
+    color: var(--primary-red);
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+/* Sidebar Admin (Screenshot 199) */
+.sidebar-admin {
+    background-color: #343a40;
+    min-height: 100vh;
+    color: white;
+    width: 260px;
+    position: fixed;
+}
+
+.sidebar-admin .nav-link {
+    color: #adb5bd;
+    padding: 12px 20px;
+    border-radius: 5px;
+    margin: 5px 15px;
+}
+
+.sidebar-admin .nav-link.active {
+    background-color: #495057;
+    color: white;
+}
+
+/* Table Admin */
+.table-container {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.table thead {
+    background-color: var(--primary-red);
+    color: white;
+}
