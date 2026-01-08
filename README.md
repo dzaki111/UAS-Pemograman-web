@@ -5,10 +5,12 @@
 #### Matkul  = Pemograman Web 1 
 
 
-
+## Link Youtube Penjealasannya
+https://youtu.be/-hmwlAMu4Ak?si=o7KI835-r8Wqf8Md
 
 ## Pertanyaan 
 
+<img width="763" height="402" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/66c6e09b-8557-4ef9-ae01-891939a2cd7c" />
 
 
 
@@ -324,6 +326,11 @@ body { font-family: 'Inter', sans-serif; background: #f8f9fa; }
 4. **Database Driven:** Semua konten produk dan user diambil dari MySQL menggunakan `User_model` dan `Product_model`.
 5. **User Experience:** Fitur "Beli Sekarang" langsung mengarahkan user ke halaman detail pesanan untuk mempercepat proses transaksi.
 
+## screenshot Login
+
+<img width="1366" height="652" alt="image" src="https://github.com/user-attachments/assets/cce50c27-332d-461a-b8f0-0ee9d17e752b" />
+
+
 # berikut screenshot codingannya dan output dari USER
 
 <img width="1366" height="658" alt="image" src="https://github.com/user-attachments/assets/4628050a-50e8-48bc-b0fe-d560ad163cdf" />
@@ -337,6 +344,12 @@ body { font-family: 'Inter', sans-serif; background: #f8f9fa; }
 <img width="1365" height="667" alt="image" src="https://github.com/user-attachments/assets/001f77ef-a9da-4222-80bd-ec256f94f51b" />
 
 # berikut screenshot codingannya dan output dari ADMIN
+
+![WhatsApp Image 2026-01-08 at 21 22 44](https://github.com/user-attachments/assets/40093ee6-0571-42d6-91b3-4e4ecfdaebb8)
+
+<img width="1361" height="645" alt="image" src="https://github.com/user-attachments/assets/84aec497-d495-4de1-afb5-a0f620333175" />
+
+
 
 
 
