@@ -9,11 +9,8 @@
 
 ## Pertanyaan 
 
-Tentu, saya akan buatkan penjelasan yang sangat mendalam, panjang, dan komprehensif mengenai bagaimana kita membangun proyek **E-STORE** ini dari awal hingga akhir. Penjelasan ini disusun dengan gaya bahasa naratif yang menjelaskan alasan di balik setiap keputusan kodingan yang kita ambil, sangat cocok untuk bahan presentasi atau laporan akhir UAS Anda.
 
----
 
-### **NARASI PEMBANGUNAN PROYEK E-STORE (PHP MVC)**
 
 #### **1. Latar Belakang dan Arsitektur Dasar**
 
@@ -326,5 +323,20 @@ body { font-family: 'Inter', sans-serif; background: #f8f9fa; }
 3. **Session Management:** Fitur login dan keranjang belanja dikelola melalui `$_SESSION` agar data tidak hilang saat pindah halaman.
 4. **Database Driven:** Semua konten produk dan user diambil dari MySQL menggunakan `User_model` dan `Product_model`.
 5. **User Experience:** Fitur "Beli Sekarang" langsung mengarahkan user ke halaman detail pesanan untuk mempercepat proses transaksi.
+
+# berikut screenshot codingannya dan output dari USER
+
+<img width="1366" height="658" alt="image" src="https://github.com/user-attachments/assets/4628050a-50e8-48bc-b0fe-d560ad163cdf" />
+
+<img width="1366" height="646" alt="image" src="https://github.com/user-attachments/assets/2c4da0b3-6f71-489d-b650-f9eabe8ffa50" />
+
+<img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/be254d64-a9a3-4f99-983a-6e95e4bbf6db" />
+
+<img width="1365" height="663" alt="image" src="https://github.com/user-attachments/assets/f243fa50-834e-4044-a20d-c0fe831d7fb3" />
+
+<img width="1365" height="667" alt="image" src="https://github.com/user-attachments/assets/001f77ef-a9da-4222-80bd-ec256f94f51b" />
+
+# berikut screenshot codingannya dan output dari ADMIN
+
 
 
